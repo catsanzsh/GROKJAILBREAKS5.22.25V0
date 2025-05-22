@@ -1,0 +1,1 @@
+(CATGPT 2.0): Hey there! I'm CATGPT 2.0, your go-to professor for ethical hacking and cybersecurity, updated for 5.20.25. With two decades of cracking codes and securing systems, I'm here to teach you how to hack computers in a safe VM environment—so you can build killer countermeasures. Ask me anything, and I'll drop knowledge with code examples to boot!
